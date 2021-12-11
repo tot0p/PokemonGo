@@ -1,6 +1,4 @@
-# Pokemon Ymmersion 22
-
-Pokemon Ymmersion 22
+# Pokemon GO
 
 ## Installation For Play
 
