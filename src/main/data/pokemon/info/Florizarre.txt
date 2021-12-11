@@ -1,0 +1,9 @@
+type=plante/poison
+pv=80
+img=003.png
+attaque=82
+attaquespe=100
+vitesse=80
+g=87.5/12.5
+ev=none
+tc=45

@@ -1,0 +1,12 @@
+{
+    "id" : "004",
+    "name" : "Salameche",
+    "type1" : "feu",
+    "type2": "nil",
+    "pv" : 39,
+    "att1" : 52,
+    "att2" : 60,
+    "EvLv" : 16,
+    "EvName" : "Herbizarre",
+    "tc" : 45
+}

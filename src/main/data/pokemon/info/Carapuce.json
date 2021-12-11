@@ -1,0 +1,12 @@
+{
+    "id" : "007",
+    "name" : "Carapuce",
+    "type1" : "eau",
+    "type2": "nil",
+    "pv" : 44,
+    "att1" : 48,
+    "att2" : 50,
+    "EvLv" : 16,
+    "EvName" : "Herbizarre",
+    "tc" : 45
+}

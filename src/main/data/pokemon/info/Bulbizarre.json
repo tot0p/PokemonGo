@@ -1,0 +1,12 @@
+{
+    "id" : "001",
+    "name" : "Bulbizarre",
+    "type1" : "plante",
+    "type2": "poison",
+    "pv" : 45,
+    "att1" : 49,
+    "att2" : 65,
+    "EvLv" : 16,
+    "EvName" : "Herbizarre",
+    "tc" : 45
+}

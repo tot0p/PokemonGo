@@ -1,0 +1,12 @@
+{
+    "id" : "155",
+    "name" : "Héricendre",
+    "type1" : "eau",
+    "type2": "nil",
+    "pv" : 39,
+    "att1" : 52,
+    "att2" : 60,
+    "EvLv" : 14,
+    "EvName" : "Feurisson",
+    "tc" : 45
+}

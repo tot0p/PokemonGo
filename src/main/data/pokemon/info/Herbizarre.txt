@@ -1,0 +1,9 @@
+type=plante/poison
+pv=60
+img=002.png
+attaque=62
+attaquespe=80
+vitesse=60
+g=87.5/12.5
+ev=32/Florizarre
+tc=45
